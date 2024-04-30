@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amrita</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a4amrita&label=Profile%20views&color=0e75b6&style=flat" alt="a4amrita" /> </p>
 
-- 👀 I’m interested in **Web Development**. 
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB, Android Development**. 
+
+- 🌱 I’m currently learning **React.js, Express.js**. 
 - 💞️ I’m looking to collaborate on any **Full Stack project**.
-- 💬 Ask me about **HTML, CSS, JavaScript, Java**.
 - 🙋‍♀️Pronouns : **She/Her**.
 
 <h3 align="left">Connect with me:</h3>
